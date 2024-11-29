@@ -1,0 +1,40 @@
+This dataset contains 12 attributes.
+
+Attribute Information:
+------------------------
+1-id
+
+2-Gender:
+	0:Male.
+	1:Female.
+
+3-Age: customers Age in years.
+
+4-Driving_License: 
+	0: not having a driving License.
+	1 : having a driving License.
+
+5-Region_Code: encoded customers regions.
+
+6-Previously_Insured:
+	0: NO
+	1: YES
+
+7-Vehicle_Age
+	1: 1-2 Year.
+	2: < 1 Year.
+	3: > 2 Years.
+
+8-Vehicle_Damage
+	0: NO
+	1: YES
+
+9-Annual_Premium: the amount paid for insurance each year.
+
+10-Policy_Sales_Channel : the sales agency id, categorical feature indicates the internal agency dealt with the customer to afford him the insurance service he wants.
+
+11-Vintage: the days of health insured till now for the customer.
+
+12-Response
+	0: NO
+	1: YES
